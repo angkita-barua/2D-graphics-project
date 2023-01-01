@@ -1531,8 +1531,8 @@ int main(int argc, char** argv)
 
 
 
-                                         printf("                                   PRESS 'left mouse button\n");
-                                         printf("                                   PRESS 'right mouse button\n");
+                                         printf("                                   PRESS 'LEFT MOUSE BUTTON\n");
+                                         printf("                                   PRESS 'RIGHT MOUSE BUTTON\n");
 
 
 
